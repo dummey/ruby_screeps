@@ -1,0 +1,13 @@
+##Setting Up
+
+Install Ruby (with rbenv)
+Install Bundler
+
+`bundle install`
+
+
+##structure
+main.js - calls into our ruby code 
+
+
+
